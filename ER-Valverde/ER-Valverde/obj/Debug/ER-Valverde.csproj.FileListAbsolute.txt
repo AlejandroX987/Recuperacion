@@ -1,7 +1,0 @@
-C:\Users\PC\Desktop\ER-Valverde\ER-Valverde\bin\Debug\ER-Valverde.exe.config
-C:\Users\PC\Desktop\ER-Valverde\ER-Valverde\bin\Debug\ER-Valverde.exe
-C:\Users\PC\Desktop\ER-Valverde\ER-Valverde\bin\Debug\ER-Valverde.pdb
-C:\Users\PC\Desktop\ER-Valverde\ER-Valverde\obj\Debug\ER-Valverde.csprojAssemblyReference.cache
-C:\Users\PC\Desktop\ER-Valverde\ER-Valverde\obj\Debug\ER-Valverde.csproj.CoreCompileInputs.cache
-C:\Users\PC\Desktop\ER-Valverde\ER-Valverde\obj\Debug\ER-Valverde.exe
-C:\Users\PC\Desktop\ER-Valverde\ER-Valverde\obj\Debug\ER-Valverde.pdb
